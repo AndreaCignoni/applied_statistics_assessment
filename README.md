@@ -4,6 +4,15 @@
 
 This repository contains two Jupyter notebooks, each focusing on different aspects of statistical analysis and Python programming. The first notebook involves a series of tasks related to basic statistical methods, while the second notebook is dedicated to a separate project that applies more advanced statistical techniques.
 
+# Learning Outcomes
+
+By completing the notebooks in this repository, you will:  
+
+1. Build foundational knowledge in **applied statistics**, including key methods like t-tests and ANOVA.  
+2. Develop practical skills in using Python for **statistical analysis** and data interpretation.  
+3. Gain experience working with real datasets to apply **statistical techniques** in context.  
+4. Enhance proficiency in using Jupyter Notebook for interactive and reproducible analysis.  
+
 ## Notebooks Overview
 
 1. **Tasks**
@@ -26,14 +35,20 @@ ANOVA (Analysis of Variance): To analyze whether there are statistically signifi
 
 ## How to Run the Notebooks
 
-Clone the repository:
+# How to Run the Notebooks
+
+1. **Ensure Prerequisites**:  
+   - Make sure you have either [Anaconda](https://www.anaconda.com/download) or [Miniconda](https://docs.anaconda.com/miniconda/) installed on your system to manage Python environments.
+   - Optionally, download and install [Vision Studio Code](https://code.visualstudio.com/download) as an additional IDE for working with `.ipynb` files and Python scripts.  
+
+2. **Clone the repository**:
 `git clone <https://github.com/AndreaCignoni/applied_statistics_assessment.git>`
 
-Install required libraries: 
+3. **Install required libraries**: 
 The libraries used in the notebooks are listed in requirements.txt. You can install them by running:
 `pip install -r requirements.txt`
 
-Open the notebooks:
+4. **Open the notebooks**:
 Launch Jupyter Notebook or JupyterLab:
 `jupyter notebook`
 Open the respective .ipynb files in your browser.
