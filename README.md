@@ -1,5 +1,7 @@
 # Statistical Analysis Project
 
+![comics](images/comics.jpeg)
+
 This repository contains two Jupyter notebooks, each focusing on different aspects of statistical analysis and Python programming. The first notebook involves a series of tasks related to basic statistical methods, while the second notebook is dedicated to a separate project that applies more advanced statistical techniques.
 
 ## Notebooks Overview
