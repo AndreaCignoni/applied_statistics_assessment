@@ -217,3 +217,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Remove .vscode folder
+.vscode/
+
+# Remove my virtual enviroment folder
+my_env/
