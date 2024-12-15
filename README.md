@@ -39,7 +39,7 @@ ANOVA (Analysis of Variance): To analyze whether there are statistically signifi
 
 1. **Ensure Prerequisites**:  
    - Make sure you have either [Anaconda](https://www.anaconda.com/download) or [Miniconda](https://docs.anaconda.com/miniconda/) installed on your system to manage Python environments.
-   - Optionally, download and install [Vision Studio Code](https://code.visualstudio.com/download) as an additional IDE for working with `.ipynb` files and Python scripts.  
+   - Optionally, download and install [Visual Studio Code](https://code.visualstudio.com/download) as an additional IDE for working with `.ipynb` files and Python scripts.  
 
 2. **Clone the repository**:
 `git clone <https://github.com/AndreaCignoni/applied_statistics_assessment.git>`
